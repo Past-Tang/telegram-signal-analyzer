@@ -1,0 +1,553 @@
+[
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "long",
+        "entry_price": [
+            3490.0,
+            3520.0
+        ],
+        "target_price": [
+            3550.0,
+            3580.0
+        ],
+        "stop_loss": 3460.0,
+        "timestamp": "2025-07-24 01:37:06",
+        "message_id": 3283,
+        "original_text": "ETH  3490-3520附近多\n目標 3550-3580附近\n止損: 3460附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "long",
+            "entry_price": [
+                3490,
+                3520
+            ],
+            "target_price": [
+                3550,
+                3580
+            ],
+            "stop_loss": 3460
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "long",
+        "entry_price": [
+            116300.0,
+            116800.0
+        ],
+        "target_price": [
+            117500.0,
+            118000.0
+        ],
+        "stop_loss": 115700.0,
+        "timestamp": "2025-07-24 13:20:08",
+        "message_id": 3285,
+        "original_text": "BTC  116300-116800附近多（轻仓）\n目標 :117500-118000\n止損:115700附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "long",
+            "entry_price": [
+                116300,
+                116800
+            ],
+            "target_price": [
+                117500,
+                118000
+            ],
+            "stop_loss": 115700
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            "市价",
+            3620.0
+        ],
+        "target_price": [
+            3570.0,
+            3543.0
+        ],
+        "stop_loss": 3640.0,
+        "timestamp": "2025-07-24 13:45:12",
+        "message_id": 3286,
+        "original_text": "ETH  市价-3620附近空\n目標 3570-3543附近\n止損: 3640附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                "市价",
+                3620
+            ],
+            "target_price": [
+                3570,
+                3543
+            ],
+            "stop_loss": 3640
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "long",
+        "entry_price": [
+            3530.0
+        ],
+        "target_price": [
+            3580.0,
+            3610.0,
+            3630.0
+        ],
+        "stop_loss": 3520.0,
+        "timestamp": "2025-07-24 14:01:24",
+        "message_id": 3290,
+        "original_text": "补仓在3530附近，止损在3520目标在；3580-3610-3630",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "long",
+            "entry_price": [
+                3530
+            ],
+            "target_price": [
+                3580,
+                3610,
+                3630
+            ],
+            "stop_loss": 3520
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3555.0,
+            3580.0
+        ],
+        "target_price": [
+            3530.0,
+            3500.0
+        ],
+        "stop_loss": 3592.0,
+        "timestamp": "2025-07-24 15:16:53",
+        "message_id": 3294,
+        "original_text": "ETH  3555-3580附近空\n目標 3530-3500附近\n止損: 2592附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3555,
+                3580
+            ],
+            "target_price": [
+                3530,
+                3500
+            ],
+            "stop_loss": 3592
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "short",
+        "entry_price": [
+            119800.0,
+            120300.0
+        ],
+        "target_price": [
+            118000.0,
+            117000.0
+        ],
+        "stop_loss": 121000.0,
+        "timestamp": "2025-07-24 19:33:02",
+        "message_id": 3296,
+        "original_text": "BTC  119800-120300附近空\n目標 :118000-117000\n止損:121000附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "short",
+            "entry_price": [
+                119800,
+                120300
+            ],
+            "target_price": [
+                118000,
+                117000
+            ],
+            "stop_loss": 121000
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3735.0,
+            3765.0
+        ],
+        "target_price": [
+            3700.0,
+            3670.0
+        ],
+        "stop_loss": 3795.0,
+        "timestamp": "2025-07-24 19:36:06",
+        "message_id": 3297,
+        "original_text": "ETH  3735-3765附近空\n目標 :3700-3670\n止損:3795附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3735,
+                3765
+            ],
+            "target_price": [
+                3700,
+                3670
+            ],
+            "stop_loss": 3795
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "short",
+        "entry_price": [
+            117800.0,
+            118300.0
+        ],
+        "target_price": [
+            117000.0,
+            116000.0
+        ],
+        "stop_loss": 119000.0,
+        "timestamp": "2025-07-25 13:08:52",
+        "message_id": 3301,
+        "original_text": "BTC 117800-118300附近空\n目標 :117000-116000\n止損:119000附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "short",
+            "entry_price": [
+                117800,
+                118300
+            ],
+            "target_price": [
+                117000,
+                116000
+            ],
+            "stop_loss": 119000
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3760.0,
+            3790.0
+        ],
+        "target_price": [
+            3730.0,
+            3700.0
+        ],
+        "stop_loss": 3820.0,
+        "timestamp": "2025-07-25 13:14:01",
+        "message_id": 3302,
+        "original_text": "ETH  3760-3790附近空\n目標 :3730-3700\n止損:3820附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3760,
+                3790
+            ],
+            "target_price": [
+                3730,
+                3700
+            ],
+            "stop_loss": 3820
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "long",
+        "entry_price": [
+            114500.0,
+            115000.0
+        ],
+        "target_price": [
+            117000.0,
+            116000.0
+        ],
+        "stop_loss": 113800.0,
+        "timestamp": "2025-07-25 13:18:29",
+        "message_id": 3303,
+        "original_text": "BTC 114500-115000附近多\n目標 :117000-116000\n止損:113800附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "long",
+            "entry_price": [
+                114500,
+                115000
+            ],
+            "target_price": [
+                117000,
+                116000
+            ],
+            "stop_loss": 113800
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "long",
+        "entry_price": [
+            3480.0,
+            3510.0
+        ],
+        "target_price": [
+            3540.0,
+            3570.0
+        ],
+        "stop_loss": 3450.0,
+        "timestamp": "2025-07-25 13:18:55",
+        "message_id": 3304,
+        "original_text": "ETH  3480-3510附近多\n目標 :3540-3570\n止損:3450附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "long",
+            "entry_price": [
+                3480,
+                3510
+            ],
+            "target_price": [
+                3540,
+                3570
+            ],
+            "stop_loss": 3450
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3670.0,
+            3700.0
+        ],
+        "target_price": [
+            3635.0,
+            3615.0
+        ],
+        "stop_loss": 3720.0,
+        "timestamp": "2025-07-25 16:30:26",
+        "message_id": 3311,
+        "original_text": "ETH  3670-3700附近空\n目標 :3635-3615\n止損:3720附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3670,
+                3700
+            ],
+            "target_price": [
+                3635,
+                3615
+            ],
+            "stop_loss": 3720
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "short",
+        "entry_price": [
+            116000.0,
+            116500.0
+        ],
+        "target_price": [
+            115000.0,
+            113000.0
+        ],
+        "stop_loss": 117200.0,
+        "timestamp": "2025-07-26 00:33:11",
+        "message_id": 3318,
+        "original_text": "移动到116000-116500附近空，止损117200附近，目标115000-113000附近\n\n以太，3650-3680附近空，止损3710附近，目标3620-3580",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "short",
+            "entry_price": [
+                116000,
+                116500
+            ],
+            "target_price": [
+                115000,
+                113000
+            ],
+            "stop_loss": 117200
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "long",
+        "entry_price": [
+            111500.0,
+            112000.0
+        ],
+        "target_price": [
+            113000.0,
+            114000.0
+        ],
+        "stop_loss": 110800.0,
+        "timestamp": "2025-07-26 00:34:41",
+        "message_id": 3319,
+        "original_text": "BTC 111500-112000附近多\n目標 :113000-114000\n止損:110800附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "long",
+            "entry_price": [
+                111500,
+                112000
+            ],
+            "target_price": [
+                113000,
+                114000
+            ],
+            "stop_loss": 110800
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "long",
+        "entry_price": [
+            3645.0,
+            3615.0
+        ],
+        "target_price": [
+            3675.0,
+            3710.0
+        ],
+        "stop_loss": 3585.0,
+        "timestamp": "2025-07-26 17:05:02",
+        "message_id": 3327,
+        "original_text": "ETH  3645-3615附近多\n目標 :3675-3710\n止損:3585附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "long",
+            "entry_price": [
+                3645,
+                3615
+            ],
+            "target_price": [
+                3675,
+                3710
+            ],
+            "stop_loss": 3585
+        }
+    },
+    {
+        "trading_pair": "BTC/USDT",
+        "direction": "short",
+        "entry_price": [
+            119000.0,
+            119500.0
+        ],
+        "target_price": [
+            117000.0,
+            116000.0
+        ],
+        "stop_loss": 120200.0,
+        "timestamp": "2025-07-26 17:12:16",
+        "message_id": 3328,
+        "original_text": "BTC 119000-119500附近空\n目標 :117000-116000\n止損:120200附近",
+        "raw_json": {
+            "trading_pair": "BTC/USDT",
+            "direction": "short",
+            "entry_price": [
+                119000,
+                119500
+            ],
+            "target_price": [
+                117000,
+                116000
+            ],
+            "stop_loss": 120200
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3810.0,
+            3840.0
+        ],
+        "target_price": [
+            3780.0,
+            3750.0
+        ],
+        "stop_loss": 3870.0,
+        "timestamp": "2025-07-26 17:13:03",
+        "message_id": 3329,
+        "original_text": "eth 3810-3840附近空\n目標 :3780-3750\n止損:3870附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3810,
+                3840
+            ],
+            "target_price": [
+                3780,
+                3750
+            ],
+            "stop_loss": 3870
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "long",
+        "entry_price": [
+            3690.0,
+            3717.0
+        ],
+        "target_price": [
+            3770.0,
+            3810.0
+        ],
+        "stop_loss": 3670.0,
+        "timestamp": "2025-07-26 21:04:10",
+        "message_id": 3330,
+        "original_text": "eth 3690-3717附近多(15分钟，轻仓)\n目標 :3770-3810\n止損:3670附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "long",
+            "entry_price": [
+                3690,
+                3717
+            ],
+            "target_price": [
+                3770,
+                3810
+            ],
+            "stop_loss": 3670
+        }
+    },
+    {
+        "trading_pair": "ETH/USDT",
+        "direction": "short",
+        "entry_price": [
+            3820.0,
+            3850.0
+        ],
+        "target_price": [
+            3790.0,
+            3750.0
+        ],
+        "stop_loss": 3880.0,
+        "timestamp": "2025-07-27 16:14:57",
+        "message_id": 3334,
+        "original_text": "eth 3820-3850附近空\n目標 :3790-3750\n止損:3880附近",
+        "raw_json": {
+            "trading_pair": "ETH/USDT",
+            "direction": "short",
+            "entry_price": [
+                3820,
+                3850
+            ],
+            "target_price": [
+                3790,
+                3750
+            ],
+            "stop_loss": 3880
+        }
+    }
+]

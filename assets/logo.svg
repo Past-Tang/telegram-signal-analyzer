@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" fill="none">
+  <rect width="680" height="200" rx="16" fill="#0d1117"/>
+  <defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0L0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/></pattern></defs>
+  <rect width="680" height="200" fill="url(#g)"/>
+  <g transform="translate(40,40)">
+    <rect width="120" height="120" rx="16" fill="#1a2332" stroke="#0088cc" stroke-width="2.5"/>
+    <path d="M30 55 L90 35 L80 90 L60 70 L30 85Z" fill="#0088cc" opacity="0.3"/>
+    <path d="M90 35 L50 65 L60 70 L80 90Z" fill="#0088cc" opacity="0.5"/>
+    <rect x="25" y="95" width="70" height="3" rx="1.5" fill="#0088cc" opacity="0.3"/>
+    <circle cx="35" cy="105" r="2" fill="#0088cc" opacity="0.3"/>
+    <circle cx="50" cy="105" r="2" fill="#0088cc" opacity="0.3"/>
+    <circle cx="65" cy="105" r="2" fill="#0088cc" opacity="0.3"/>
+  </g>
+  <text x="195" y="72" font-family="'Segoe UI',system-ui,sans-serif" font-size="46" fill="#e6edf3" font-weight="700" letter-spacing="-1">Telegram</text>
+  <text x="195" y="118" font-family="'Segoe UI',system-ui,sans-serif" font-size="46" fill="#0088cc" font-weight="700" letter-spacing="-1">Analyzer</text>
+  <text x="197" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#7d8590">TG &#x6D88;&#x606F;&#x5206;&#x6790; | &#x4EA4;&#x6613;&#x4FE1;&#x53F7; | &#x81EA;&#x52A8;&#x76D1;&#x63A7;</text>
+  <g transform="translate(197,162)">
+    <rect width="66" height="22" rx="11" fill="#1a2332" stroke="#0088cc" stroke-width="1"/>
+    <text x="33" y="15" font-family="monospace" font-size="10" fill="#0088cc" text-anchor="middle">Python</text>
+    <rect x="76" width="82" height="22" rx="11" fill="#1a2332" stroke="#58a6ff" stroke-width="1"/>
+    <text x="117" y="15" font-family="monospace" font-size="10" fill="#58a6ff" text-anchor="middle">Telethon</text>
+    <rect x="168" width="72" height="22" rx="11" fill="#1a2332" stroke="#3fb950" stroke-width="1"/>
+    <text x="204" y="15" font-family="monospace" font-size="10" fill="#3fb950" text-anchor="middle">Gate.io</text>
+  </g>
+</svg>
